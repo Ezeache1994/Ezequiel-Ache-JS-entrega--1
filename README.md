@@ -1,2 +1,2 @@
-# Ezequiel-Ache-JS-entrega--1
-Entrega 1 De Ezequiel Ache
+# Ezequiel-Ache-JS-entrega--2
+Entrega 2 De Ezequiel Ache
